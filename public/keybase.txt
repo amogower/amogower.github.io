@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/amogower
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://amogower.com
+  * I am amogower (https://keybase.io/amogower) on keybase.
+  * I have a public key ASA5RpKgPIAnajiSBsjXhm6m-HgLVOAUBFuguCiTLGxqugo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c8e5ab1a5e21f28017e3144e924293e65b2ec20ce720a80e7eb1647f92109d0d0a",
+      "host": "keybase.io",
+      "kid": "0120394692a03c80276a389206c8d7866ea6f8780b54e014045ba0b828932c6c6aba0a",
+      "uid": "f23d3dc70535a1a5390048ab78bd2719",
+      "username": "amogower"
+    },
+    "merkle_root": {
+      "ctime": 1634052662,
+      "hash": "c251b955c48ecd6cdcb35464525fabeb81d9d68357bfd432674233c6e4338e2360cab5e366d8c0977b8955eff52fdc0a17052f7599f7139442886ff8a770bbb7",
+      "hash_meta": "2db3c5933fbc902e5bc6b76fd68a245fc55084dbea3f71b17c3119418bd9ea92",
+      "seqno": 20968964
+    },
+    "service": {
+      "entropy": "rOgG6HoIagpDta7bNoQ0/YUR",
+      "hostname": "amogower.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1634052676,
+  "expire_in": 504576000,
+  "prev": "50655b3831249b46eeb1cb202b2696e41b659dfaa5b1ad177b77aff4567d9c7f",
+  "seqno": 46,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOUaSoDyAJ2o4kgbI14Zupvh4C1TgFARboLgokyxsaroKp3BheWxvYWTESpcCLsQgUGVbODEkm0buscsgKyaW5Btlnfqlsa0Xe3ev9FZ9nH/EICmvQu2udevZkzIqPAHGN3/175hQs04rAAt5CTK/KWqyAgHCo3NpZ8RAIWH5yuz1WWiGGbzdtR5gSqKMSB+p6pKyXIRvEMC4Oq2FMkZiFl0klDa2ik2PhjbvJ2tpvGKNKOIC+GUOwmHjDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINv9JlXElYZD/QLUZKkkFDPRCQ07hkOU6StNhTTQR2Ifo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/amogower
+
+==================================================================
